@@ -1,4 +1,5 @@
 # ⚡ About Me:
+I am a Full-Stack Web Developer specializing in the MERN stack (MongoDB, Express, React, Node.js) and modern JavaScript frameworks. I focus on building responsive, user-centric applications, such as FixItAll, a service marketplace I architected using Node.js and secure JWT authentication. Currently, I am exploring AI chatbot interfaces using Vite and React for faster development cycles.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amnasabahat) 
