@@ -1,16 +1,17 @@
-## Hi there 👋
+🔭 I’m currently working on
+FixItAll (my Final Year Project), a service marketplace built with the MERN stack (Node.js, Express, MongoDB). 
 
-<!--
-**Amna-Sabahat-123/Amna-Sabahat-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 I’m looking to collaborate on
+Full-stack web applications, real-time Chatbot interfaces, or E-commerce platforms. 
 
-Here are some ideas to get you started:
+🤝 I’m looking for help with
+Advanced UX Design principles and Node.js backend optimization strategies. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning
+Node.js Backend Best Practices and the Foundations of UX Design. 
+
+💬 Ask me about
+MERN Stack development, React + Vite, Tailwind CSS, or how I transformed an offline plastic business into a digital marketplace. 
+
+⚡ Fun fact
+I engineered a complete e-commerce solution for a traditional plastic products business, moving their entire catalog online using WordPress and WooCommerce.
